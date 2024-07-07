@@ -1,0 +1,11 @@
+1,The Great Gatsby,F. Scott Fitzgerald,Classic,False
+2,1984,George Orwell,Dystopian,True
+3,To Kill a Mockingbird,Harper Lee,Classic,True
+4,Pride and Prejudice,Jane Austen,Romance,True
+5,The Hobbit,J.R.R. Tolkien,Fantasy,True
+6,The Catcher in the Rye,J.D. Salinger,Classic,True
+7,Brave New World,Aldous Huxley,Dystopian,True
+8,The Lord of the Rings,J.R.R. Tolkien,Fantasy,True
+9,Jane Eyre,Charlotte Brontë,Gothic,True
+10,Moby-Dick,Herman Melville,Adventure,True
+100,C++,Malaika,prog,True
